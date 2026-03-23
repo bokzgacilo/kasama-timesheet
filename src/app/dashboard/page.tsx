@@ -575,7 +575,7 @@ export default function DashboardPage() {
                     Date
                   </Text>
                   <Text color="fg.muted" fontSize="xs" textTransform="uppercase" letterSpacing="0.12em">
-                    Project / description
+                    Project / descriptions
                   </Text>
                   <Text color="fg.muted" fontSize="xs" textTransform="uppercase" letterSpacing="0.12em">
                     Hours
